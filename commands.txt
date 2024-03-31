@@ -1,0 +1,4 @@
+spl-token create-token --mint-authority <ADDRESS>
+
+spl-token create-account --fee-payer /home/ritikbhatt020/.config/solana/id.json 6EztWjS3nPQmwftE12EgzRbuAVn9iXLySaXzapJYnPTy --owner AvVi5rnK5ZaJSFcjTHBmFbxTicgEJeFgU4fne4nm2yqr
+Creating account 9m4AsKwLhEn8ZiembYqb5BrdvKy7yFS37mKwTYYKGGvq
