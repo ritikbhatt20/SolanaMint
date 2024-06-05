@@ -1,4 +1,4 @@
-### Token Contract on Solana using Anchor
+#### Token Contract on Solana using Anchor
 
 ## Overview
 This repository contains a simple Rust-based smart contract implemented using the Anchor framework on the Solana blockchain. The smart contract includes two main functions:
