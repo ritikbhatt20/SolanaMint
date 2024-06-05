@@ -14,12 +14,10 @@ Before you begin, ensure you have the following installed:
 ### Getting Started
 
 ## Clone the Repository
-    ```
     git clone https://github.com/yourusername/token-contract
     cd token-contract
 
 ## Build the Project
-    ```sh
     anchor build
 
 ### Deploy the Program
