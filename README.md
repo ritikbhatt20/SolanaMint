@@ -22,9 +22,11 @@ Before you begin, ensure you have the following installed:
 
 ### Deploy the Program
 1. **Start a local Solana test validator**:
+   
     ```sh
     solana-test-validator
 2. **In a new terminal window, deploy the program**:
+   
    ```sh
    anchor deploy
 
